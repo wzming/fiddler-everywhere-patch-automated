@@ -19,7 +19,7 @@ This's the guide for applying patch automatically.
 >  - Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;1m 30s
 
 > [!IMPORTANT]
-> If you encounter an issue of "Fiddle Everywhere Crashing in Startup", you can follow [this](#fiddler-everywhere-crashing-in-the-startup).
+> If you encounter an issue of "Fiddle Everywhere Crashing in Startup", you can follow [this](#fiddler-everywhere-crashing-at-startup).
 
 > [!TIP]
 > Now supports changing patch server port (Useful if port conflitcts encountered)
