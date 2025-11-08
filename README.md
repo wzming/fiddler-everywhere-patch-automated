@@ -143,6 +143,6 @@ You can check it with:
   - You should also see the same issue with the `non-patched official FE`. Confirm this.
   - You can try removing port `8868` from `Administered port exclusions`. 
 
-You should also follow issue [#44](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/issues/44) ; Special tnx to [@choneas](https://github.com/choneas). 
+You should also follow issue [#44](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/issues/44#issuecomment-3497425472) ; Special tnx to [@choneas](https://github.com/choneas). 
 
 If this didn't solve your problem, feel free to open an issue. 
