@@ -1,7 +1,7 @@
 ## [中文翻译版](README_CN.md)
 
 > [!WARNInG]
-> FE `v8.x.x` support is not yet here (automated). You need to follow [parent-repo](https://github.com/msojocs/fiddler-everywhere-enhance)
+> FE `v8.x.x` support is not yet automated here. You need to follow [parent-repo](https://github.com/msojocs/fiddler-everywhere-enhance)
 
 # Fiddler Everywhere Patch (Automated)
 Guides you to Patch Fiddler Everywhere on Windows Automatically. 
